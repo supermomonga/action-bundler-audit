@@ -1,6 +1,6 @@
-name: 'Run bundler-audit with reviewdog'
+name: 'Run bundler-audit with reviewdog in Github Actions'
 description: '🐶 Run bundler-audit with reviewdog on pull requests to improve code review experience.'
-author: 'tomferreira'
+author: 'thamdavies'
 inputs:
   github_token:
     description: 'GITHUB_TOKEN'
